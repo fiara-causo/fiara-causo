@@ -2,7 +2,7 @@
 I'm Fiara, an analyst in San Francisco 🌁 🏙️ with a background in Finance, Accounting, Economics, and Data Science. I primarily work with SQL, Python, and Tableau to gather data and create live reports.
 
 ## Portfolio 📖
-In my portfolio, you can my projects and case studies.
+In my portfolio, you can view my projects and case studies.
 
 ## Programming Languages 👩‍💻
 - <img src="https://user-images.githubusercontent.com/56044467/217185098-1a2a6e4f-e458-409a-a619-f7a4fa0b7685.png" width="150">
