@@ -18,4 +18,20 @@ In my portfolio, you can view my projects and case studies.
 [![name](https://user-images.githubusercontent.com/56044467/217187607-02d0ae5a-d549-437e-b829-f90c5fc6fb22.svg)](https://www.linkedin.com/in/fiara-causo/)
 [![name](https://user-images.githubusercontent.com/56044467/217186900-0988a053-9c68-4a64-b7bc-d71dc636030e.svg)](fificauso@gmail.com)
 <!--
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="google-site-verification" content="GXHSrWypHn2O9Oh_oxUWHOIouQizlbQIBhVghfLwizw" />
+    <title>About me</title>
+</head>
 
+<body>
+    <header>
+        <h1>A little about myself</h1>
+      
+    </header>
+        
+        
+    
+</body>
+</html>
