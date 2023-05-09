@@ -1,5 +1,5 @@
 # **Hi There** 👋
-I'm Fiara, an analyst in San Francisco 🌁 🏙️ with a background in Finance, Accounting, Economics, and Data Science. I primarily work with SQL, Python, and Tableau to gather data and create live reports.
+I'm Fiara, an analyst in San Francisco 🌁 🏙️ with a background in Finance, Accounting, Economics, and Data Science. 
 
 ## Portfolio 📖
 In my portfolio, you can view my projects and case studies.
